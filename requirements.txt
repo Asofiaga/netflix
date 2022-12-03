@@ -1,5 +1,5 @@
-streamlit
+streamlit==1.11.1
 altair
-pandas
-numpy
+pandas==1.3.2
+numpy==1.21.6
 matplotlib
