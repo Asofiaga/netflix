@@ -1,13 +1,14 @@
 #Rodrigo Hernández A01610903
 #Nadia Luna Rivas A01658134
-# Carlos Ledezma A00828114 
+#Carlos Ledezma A00828114 
+#Sofía Gutiérrez A00827191
 
 
 #-----------Libreiras
 import streamlit as st
 import pandas as pd
 import numpy as np
-import plotly.express as px
+import plotly as px
 
 #-----------Constantes y dtos
 nameC = "movies.csv"
